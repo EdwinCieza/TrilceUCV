@@ -11,7 +11,8 @@ public class PushNotification {
     private String mDescription;
     private String mExpiryDate;
     private float mDiscount;
-/// prueba espere ok fgfgfgfgfg esp
+/// prueba espere ok fgfgfgfgfg esp nada jajaja espere yo voy a actualizar algo ok bueno al menos funciona algo xD
+    // no lo vi donde es?? espere primero es asi
     public PushNotification() {
         id = UUID.randomUUID().toString();
     }
