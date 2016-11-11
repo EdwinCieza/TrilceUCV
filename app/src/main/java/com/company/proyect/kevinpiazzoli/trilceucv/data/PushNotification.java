@@ -11,7 +11,7 @@ public class PushNotification {
     private String mDescription;
     private String mExpiryDate;
     private float mDiscount;
-/// prueba espere ok
+/// prueba espere ok fgfgfgfgfg esp
     public PushNotification() {
         id = UUID.randomUUID().toString();
     }
